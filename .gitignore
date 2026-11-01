@@ -1,0 +1,13 @@
+# Secretos
+.env
+
+# Datos de prospectos y envíos (información personal de terceros)
+data/
+output/
+logs/
+
+# Python y sistema
+__pycache__/
+*.pyc
+*.bak
+.DS_Store
